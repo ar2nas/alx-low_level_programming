@@ -1,11 +1,13 @@
 #include <stdio.h>
 /**
- * main - print programing is like building with puts
+ * main - Entry point
+ *
+ * description - 'programing is like building with puts'
  *
  * return : 0 (succes)
  */
-int main(void)
+main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
